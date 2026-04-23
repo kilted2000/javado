@@ -4,3 +4,6 @@ public class Main {
     System.out.println("Hello Java Learning");
   }
 }
+
+//use mvc architecture
+//use no ai at all
